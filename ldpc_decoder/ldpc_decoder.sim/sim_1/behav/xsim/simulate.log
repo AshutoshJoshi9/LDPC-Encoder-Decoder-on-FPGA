@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Test case 1 failed.
+Test case 2 failed.
+Test case 3 failed.
+Test case 4 passed.
+$stop called at time : 140 ns : File "D:/Verilog/ldpc_decoder/ldpc_decoder.srcs/sim_1/new/tb_ldpcdecoder.v" Line 76
